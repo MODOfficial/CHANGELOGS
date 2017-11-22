@@ -21,7 +21,7 @@
 
 ### Герои - описание
 
-#### Мегумин
+#### _Мегумин_
 
 #### 1.Small explosion of continuum
 ![](https://github.com/MODOfficial/CHANGELOGS/blob/master/MeguminSEOC.png) 
