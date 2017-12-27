@@ -7,6 +7,10 @@
 * Model chests changed to gift
 * Suitcase your dad renamed the Gift
 
+### Heroes
+
+* Added new hero: Opezdal
+
 ### Sounds/Music
   
 * #### Vjlink
